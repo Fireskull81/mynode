@@ -22,7 +22,7 @@ xmltodict
 python-cfonts
 termcolor
 pycoingecko
-protobuf==3.13.0
+protobuf==5.29.6
 six==1.15.0
 robohash
 pillow
